@@ -1,3 +1,5 @@
+## Note: see my [Notes](https://github.com/camjm/stamp/wiki/Notes) on the subject!
+
 # stamp
 HTML templates using the &lt;template> tag. 
 
