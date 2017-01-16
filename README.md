@@ -1,4 +1,6 @@
-## Note: see my [Notes](https://github.com/camjm/stamp/wiki/Notes) on the subject!
+## Note: 
+- see my [Notes](https://github.com/camjm/stamp/wiki/Notes) on the subject!
+- and see [Web Components](https://www.webcomponents.org/polyfills/#html-imports-polyfill)
 
 # stamp
 HTML templates using the &lt;template> tag. 
